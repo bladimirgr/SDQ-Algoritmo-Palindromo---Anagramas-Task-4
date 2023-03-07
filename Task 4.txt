@@ -1,0 +1,2 @@
+Algoritmo Palindromo & Anagramas
+Crear una aplicación que me permita subir un archivo .txt el cual contenga una lista de palabras y analice los anagramas y/o palíndromos dentro del mismo archivo.
